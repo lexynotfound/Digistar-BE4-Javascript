@@ -1,0 +1,19 @@
+{
+  "name": "5-workshop-exercise",
+  "version": "1.0.0",
+  "description": "Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexynotfound/Digistar-BE4-Javascript.git"
+  },
+  "author": "lexynotfound",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexynotfound/Digistar-BE4-Javascript/issues"
+  },
+  "homepage": "https://github.com/lexynotfound/Digistar-BE4-Javascript#readme"
+}
