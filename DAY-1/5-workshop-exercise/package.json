@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lexynotfound/Digistar-BE4-Javascript/issues"
   },
-  "homepage": "https://github.com/lexynotfound/Digistar-BE4-Javascript#readme"
+  "homepage": "https://github.com/lexynotfound/Digistar-BE4-Javascript#readme",
+  "dependencies": {
+    "5-workshop-exercise": "file:"
+  }
 }
